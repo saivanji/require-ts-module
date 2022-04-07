@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiven715/require-ts-module.git"
+  },
   "keywords": [],
   "author": "aiven715",
   "license": "ISC",
