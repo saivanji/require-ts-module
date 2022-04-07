@@ -1,0 +1,15 @@
+{
+  "name": "require-ts-module",
+  "version": "1.0.0",
+  "description": "Require TypeScript modules as regular NodeJS module in .js files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "aiven715",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
