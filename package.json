@@ -1,6 +1,6 @@
 {
   "name": "require-ts-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Require TypeScript modules as regular NodeJS module in .js files",
   "main": "index.js",
   "scripts": {

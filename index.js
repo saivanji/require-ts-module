@@ -1,6 +1,5 @@
 const path = require("path");
 const fs = require("fs");
-const requireContext = require("require-context");
 const ts = require("typescript");
 
 exports.requireTs = function (modulePath) {
